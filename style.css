@@ -130,7 +130,7 @@
 	height: 140px;
 	border: 5px solid black;
 	border-radius: 30px;
-	left: 15px;
+	right: 15px;
 	top: 1600px;
 	background: lightgreen;
 	position: absolute;
@@ -141,8 +141,8 @@
 	height: 140px;
 	border: 5px solid black;
 	border-radius: 30px;
-	right: 15px;
-	top: 1200px;
+	left: 15px;
+	top: 1600px;
 	background: lightgreen;
 	position: absolute;
 	font-size: 2.5rem;
